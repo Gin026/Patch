@@ -1,4 +1,4 @@
-# Luna Odin Patch
+# Luna Rin Patch
 
-Launcher Patch for Luna Odin
+Launcher Patch for Luna Rin
 
